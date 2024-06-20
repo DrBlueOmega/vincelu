@@ -1,0 +1,41 @@
+.name{
+    background-color: rgb(12, 34, 235);}
+p{ border: 3px solid red;}
+p{
+    border: 5px solid pink;
+    margin: 10px;
+    padding: 10px;
+}
+
+.services{
+    background-color: #0de27fec;
+    font-size: 10px;
+    overflow: hidden;
+}
+.key{size-adjust: 65px;}
+
+.Vinny{
+    display: flex;
+    background-color: rgba(230, 105, 219, 0.274);
+    margin-right: 10px;
+
+}
+.Vinny >li{
+    background-color: none;
+    margin-right: 10px;
+    list-style: none;
+    text-decoration-color: black;
+    text-wrap: nowrap;
+    font-size: 20px;
+}
+
+.Vinny >li:hover{
+    background-color: aqua;
+}
+ .name>hgroup:hover{
+    background-color: aliceblue;
+ }
+
+ .services>h1:hover{
+    background-color: bisque;
+ }
